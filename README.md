@@ -225,3 +225,6 @@ Python scripts that allows to withdraw ETH from various accs on soneium to one s
 
 
 <!-- feat: add multi-chain support - 2025-09-06 23:15:51 -->
+
+
+<!-- feat: add transaction signing support - 2025-09-07 21:35:51 -->
