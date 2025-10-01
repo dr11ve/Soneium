@@ -5,7 +5,7 @@ from typing import List
 
 # Конфигурация
 RPC_URL = "https://rpc.soneium.org"
-RECEIVER_ADDRESS = "0x3885b38c9b592742364c8b161095846928bf4411"  # Адрес получателя
+RECEIVER_ADDRESS = "RECEIVE_ADDRESS"  # Адрес получателя
 
 # Подключение к сети
 w3 = Web3(Web3.HTTPProvider(RPC_URL))
